@@ -41,3 +41,5 @@ Data acquisition systems.
 Educational projects and demonstration modules.
 ems, combining basic electronics with real-world applications.
 
+
+Quick access: https://a360.co/4gN2VXZ
